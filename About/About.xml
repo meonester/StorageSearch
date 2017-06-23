@@ -1,7 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>Storage Search</name>
-  <author>Meonester</author>
-  <targetVersion>Alpha 12</targetVersion>
-  <description>This Mod allows you to search by name in storage filter tab.</description>
+  <name>Storage Search A17</name>
+  <author>Killface</author>
+  <targetVersion>0.17.1535</targetVersion>
+  <description>
+    This Mod allows you to search by name in storage filter tab. Original A12 version by meonester.
+    Updated for A17 by Killface.
+
+    Includes Hauling Hysteresis by Vendan https://ludeon.com/forums/index.php?topic=26958.0
+
+    As of 2016-09-28, this mod also
+    - allows apparel to be searched by name in the edit window
+
+
+  </description>
 </ModMetaData>
